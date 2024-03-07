@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Evaluación de usabilidad del prototipo <i>software</i>',
     descripcionCurso:
-      'En este componente se aborda el paso a paso del uso de técnicas para la evaluación de la usabilidad de los prototipos software. Se inicia con una ruta lógica para el uso de estas herramientas, desde pruebas de inspección, hasta pruebas ligadas a la participación directa del usuario. Se espera que el aprendiz tenga las herramientas necesarias para realizar una evaluación de calidad.',
+      'En este componente se aborda el paso a paso del uso de técnicas para la evaluación de la usabilidad de los prototipos <i>software</i>. Se inicia con una ruta lógica para el uso de estas herramientas, desde pruebas de inspección, hasta pruebas ligadas a la participación directa del usuario. Se espera que el aprendiz tenga las herramientas necesarias para realizar una evaluación de calidad.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -57,7 +57,6 @@ export default {
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
