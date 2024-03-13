@@ -1234,7 +1234,7 @@
       .col-12
         .p-5
           .tarjeta.tarjeta--azul1
-            .p-4.p-lg-5
+            .py-2.px-4
               SlyderA(tipo="b")
                 .row.justify-content-center.align-items-center.m-1
                   .col-lg-7.order-2.order-lg-1
