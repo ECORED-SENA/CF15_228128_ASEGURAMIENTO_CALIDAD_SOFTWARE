@@ -12,11 +12,11 @@ export default {
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-1.svg'),
       },
       {
-        clases: ['banner-principal-decorativo-2'],
+        clases: ['banner-principal-decorativo-2', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
       },
       {
-        clases: ['banner-principal-decorativo-3'],
+        clases: ['banner-principal-decorativo-3', 'd-none', 'd-lg-block'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
@@ -170,7 +170,7 @@ export default {
     {
       tema: 'Card Sorting',
       referencia:
-        'Optimal Workshop. (2017). <i>Card Sorting con Optimal Workshop</i>. [Video]. YouTube.',
+        'Optimal Workshop. (2017). <i>Card Sorting con Optimal Workshop</i>. YouTube.',
       tipo: 'Vídeo',
       link: 'https://www.youtube.com/watch?v=jVJM2ClAgAs',
     },
@@ -184,7 +184,7 @@ export default {
   ],
   glosario: [
     {
-      termino: '<i>>Card Sorting</i>',
+      termino: '<i>Card Sorting</i>',
       significado:
         'método utilizado para ayudar a diseñar o evaluar la arquitectura de información de un sitio. En una sesión de con este método, los participantes organizan los temas en categorías que tienen sentido para ellos y también pueden ayudarlo a etiquetar estos grupos.',
     },

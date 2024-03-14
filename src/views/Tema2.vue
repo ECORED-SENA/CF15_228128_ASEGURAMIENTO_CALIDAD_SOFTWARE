@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-contenido(data-aos="flip-up")
       .titulo-principal__numero
         span 2
-      h1 Herramientas de pruebas de software de GUI
+      h1 Introducción a la evaluación de accesibilidad
     p.mb-5(data-aos="fade-right") La accesibilidad dentro del contexto de la experiencia de usuario significa que se da la flexibilidad para adaptarse a las necesidades, preferencias y limitaciones de cada uno de los usuarios en cuestión.
     .row
       .col-12.bg-c2(data-aos="fade-left")
@@ -16,7 +16,7 @@
                 img(src='@/assets/curso/tema2/img1.png', style="width:350px", alt='').m-auto
             .col.bg-c3
               .p-4
-                p.mb-0  En un escenario ideal las interfaces o sistemas deberían adaptarse a cada una de las particularidades de los usuarios, sin que nadie se vea limitado en el uso de algo por causa de esas diferencias. Además, es necesario evitar diseñar solamente atendiendo a características de grupos de población específicos, pues eso generaría más barreras.
+                p.mb-0  En un escenario ideal, las interfaces o sistemas deberían adaptarse a cada una de las particularidades de los usuarios, sin que nadie se vea limitado en el uso de algo por causa de esas diferencias. Además, es necesario evitar diseñar solamente atendiendo a características de grupos de población específicos, pues eso generaría más barreras.
     Separador
     #t_2_1
     .titulo-segundo.color-acento-contenido
@@ -59,7 +59,7 @@
               figure
                 img(src='@/assets/curso/tema2/img2.png', style="width:380px", alt='').m-auto
             .col-lg-8(data-aos="fade-left")
-              p En el año 2013, con el objetivo de unificar los procesos de evaluación de contenido web, el consorcio de la WWW, W3C, desarrolló una Metodología de Evaluación de Conformidad de la Accesibilidad en Sitios Web: la Website Accessibility Conformance Evaluation Methodology (WCAG-EM), dando lugar a la WCAG-EM 1.0. Esta se presenta como una metodología que evalúa la conformidad con los criterios de accesibilidad y la WCAG 2.0, permitiendo indicar el nivel de accesibilidad de un sitio web.
+              p En el año 2013, con el objetivo de unificar los procesos de evaluación de contenido web, el consorcio de la WWW, W3C, desarrolló una Metodología de Evaluación de Conformidad de la Accesibilidad en Sitios Web: la #[i Website Accessibility Conformance Evaluation Methodology] (WCAG-EM), dando lugar a la WCAG-EM 1.0. Esta se presenta como una metodología que evalúa la conformidad con los criterios de accesibilidad y la WCAG 2.0, permitiendo indicar el nivel de accesibilidad de un sitio web.
               p.mb-0 En este contexto, la WCAG-EM se emplea habitualmente para realizar una evaluación exhaustiva de un sitio web de acuerdo con las pautas WCAG 2.0, integrando la validación automática, semiautomática y manual.
           .row.justify-content-center.mb-5
             .col-lg-10.bg-c11(data-aos="fade-down")
@@ -69,7 +69,7 @@
                     figure
                       img(src='@/assets/curso/tema2/img2.svg', style="width:100px" alt='').m-auto
                   .col
-                    p.mb-0 Dispone de una prueba preliminar llamada, #[b “Easy Checks - A First Review of Web Accessibility”], el cual se anexa como material de apoyo bajo el tema Herramientas de validación que permite evaluar cuestiones precisas del sitio web relacionados con la navegación, el texto, elementos visuales, multimedia y la interacción.
+                    p.mb-0 Dispone de una prueba preliminar llamada, #[b #[i “Easy Checks - A First Review of Web Accessibility”]], el cual se anexa como material de apoyo bajo el tema Herramientas de validación que permite evaluar cuestiones precisas del sitio web relacionados con la navegación, el texto, elementos visuales, multimedia y la interacción.
           .tarjeta.color-secundario.p-3.mb-5(data-aos="fade-left")
             .row.justify-content-around.align-items-center
               .col-3.col-sm-2.col-lg-1
@@ -78,7 +78,7 @@
                 .row.justify-content-between.align-items-center
                   .col.mb-3.mb-sm-0
                     h3.mb-1 Herramientas de validación
-                    p.text-small Ingrese a la prueba preliminar llamada, “Easy Checks - A First Review of Web Accessibility”, permite evaluar cuestiones precisas del sitio web relacionados con la navegación, el texto, elementos visuales, multimedia y la interacción.
+                    p Ingrese a la prueba preliminar llamada, #[i “Easy Checks - A First Review of Web Accessibility”], permite evaluar cuestiones precisas del sitio web relacionados con la navegación, el texto, elementos visuales, multimedia y la interacción.
                   .col-sm-auto
                     a.boton.color-acento-botones.texto-blanco(href="https://www.w3.org/WAI/test-evaluate/preliminary/" target="_blank")
                       span(style="color:#000 !important") Visitar enlace
@@ -88,7 +88,7 @@
               p.txt-c1 #[b Recorrido por barreras de accesibilidad (#[i Barrier Walkthrough])]
           .row.mb-5
             .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
-              p Este método de evaluación de la accesibilidad se presenta en el artículo Web Accessibility Testing: When the Method Is the Culprit, de Brajnik (2006), que consiste en una adaptación del método de evaluación heurística donde, en este caso, los principios heurísticos son reemplazados por barreras de accesibilidad (Brajnik, 2006).
+              p Este método de evaluación de la accesibilidad se presenta en el artículo #[i Web Accessibility Testing: When the Method Is the Culprit], de Brajnik (2006), que consiste en una adaptación del método de evaluación heurística donde, en este caso, los principios heurísticos son reemplazados por barreras de accesibilidad (Brajnik, 2006).
               p.mb-0 Según Brajnik, se introduce un término denominado "barrera", el cual debe entenderse como una condición que dificulta a una persona, con alguna característica particular, alcanzar el objetivo de una tarea. Por lo tanto, la barrera se clasifica en una serie de categorías y se describe por:
             .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
               figure

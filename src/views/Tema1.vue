@@ -6,7 +6,7 @@
       .titulo-principal__numero
         span 1
       h1 Técnicas y métodos de evaluación de usabilidad
-    p(data-aos="fade-right") Las técnicas de evaluación dentro del contexto de la usabilidad son una parte crítica del proceso de desarrollo de software, debido a su naturaleza iterativa. Una evaluación de usabilidad representa la mejor manera de poner un producto en manos de usuarios reales para observar si lo usan y cómo lo usan antes del lanzamiento del producto.
+    p(data-aos="fade-right") Las técnicas de evaluación dentro del contexto de la usabilidad son una parte crítica del proceso de desarrollo de #[i software], debido a su naturaleza iterativa. Una evaluación de usabilidad representa la mejor manera de poner un producto en manos de usuarios reales para observar si lo usan y cómo lo usan antes del lanzamiento del producto.
     .row.mb-3
       .col-12.bg-c2(data-aos="fade-down")
         .p-4
@@ -16,8 +16,8 @@
                 img(src='@/assets/curso/tema1/img1.svg', style="width:350px", alt='').m-auto
             .col.bg-c3
               .p-4
-                p.mb-0 La aplicación de diversas técnicas de evaluación permitirá medir cuantitativa y cualitativamente el comportamiento, el rendimiento y la satisfacción del usuario. Algunos proyectos de software abordan las pruebas de usabilidad, pero solo al final del ciclo de desarrollo.
-    p.mb-0(data-aos="fade-right") Desafortunadamente, esto es demasiado tarde en el ciclo de desarrollo para incorporar cambios basados en los resultados de las pruebas de usabilidad. Incluso si se realizan cambios en el diseño del producto, la interfaz debe evaluarse nuevamente para garantizar que el producto cumpla con los puntos de referencia y los objetivos del producto final, afectando la calidad del software. De esta forma, con los siguientes métodos se espera presentar las mejores prácticas en torno a la evaluación de usabilidad para sistemas interactivos de software.
+                p.mb-0 La aplicación de diversas técnicas de evaluación permitirá medir cuantitativa y cualitativamente el comportamiento, el rendimiento y la satisfacción del usuario. Algunos proyectos de #[i software] abordan las pruebas de usabilidad, pero solo al final del ciclo de desarrollo.
+    p.mb-0(data-aos="fade-right") Desafortunadamente, esto es demasiado tarde en el ciclo de desarrollo para incorporar cambios basados en los resultados de las pruebas de usabilidad. Incluso si se realizan cambios en el diseño del producto, la interfaz debe evaluarse nuevamente para garantizar que el producto cumpla con los puntos de referencia y los objetivos del producto final, afectando la calidad del #[i software]. De esta forma, con los siguientes métodos se espera presentar las mejores prácticas en torno a la evaluación de usabilidad para sistemas interactivos de #[i software].
     Separador
     #t_1_1
     .titulo-segundo.color-acento-contenido
@@ -56,7 +56,7 @@
             .col
               h3 Evaluación heurística
     p(data-aos="fade-right") En la literatura se encuentra un sinnúmero de definiciones y ejemplos acerca de los pasos de la evaluación heurística, por lo que en este componente se agrupan las mejores descripciones y buenas prácticas para su aplicación.
-    p(data-aos="fade-right") A los 10 principios generales de Jakob Nielsen para el diseño de interacciones se les llama “heurísticas”, porque son reglas generales y no pautas de usabilidad específicas, como se verá a continuación:
+    p(data-aos="fade-right") A los #[b 10 principios] generales de Jakob Nielsen para el diseño de interacciones se les llama #[b “heurísticas”], porque son reglas generales y no pautas de usabilidad específicas, como se verá a continuación:
     .row.bg-c7
       .col-12
         .px-5.pt-5
@@ -116,7 +116,7 @@
                       img(src='@/assets/curso/tema1/img13.svg', style="width:30px" alt='')
                   .col
                     p.mb-0 #[b Ejemplo: mala práctica]
-                p Es una página #[i web] de compras, y genera confusión porque no se selecciona la opción del menú cuando se navega por él. Hay que recordar que todo de la UI (#[i User Interface]) debe indicar en donde se encuentra el usuario.
+                p Es una página web de compras, y genera confusión porque no se selecciona la opción del menú cuando se navega por él. Hay que recordar que todo de la UI (#[i User Interface]) debe indicar en donde se encuentra el usuario.
                 .row.justify-content-center
                   .col-auto
                     figure
@@ -213,7 +213,7 @@
                       img(src='@/assets/curso/tema1/img7.svg', style="width:100px" alt='').m-auto
                   .col
                     p #[b Recomendación]
-                    p Cuando es fácil para las personas retroceder en un proceso o deshacer una acción, se fomenta una sensación de libertad y confianza, es más de credibilidad del sistema software. Las salidas permiten a los usuarios mantener el control del sistema y, de esta forma, evitar quedarse atascados o, lo que es peor, sentir frustración.
+                    p Cuando es fácil para las personas retroceder en un proceso o deshacer una acción, se fomenta una sensación de libertad y confianza, es más de credibilidad del sistema #[i software]. Las salidas permiten a los usuarios mantener el control del sistema y, de esta forma, evitar quedarse atascados o, lo que es peor, sentir frustración.
           .row.align-items-center.mb-5
             .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
               .row
@@ -361,7 +361,7 @@
                       img(src='@/assets/curso/tema1/img13.svg', style="width:30px" alt='')
                   .col
                     p.mb-0 #[b Ejemplo: mala práctica]
-                p Sucede en un formulario web, en el que no se informa de las características que debe tener cada campo (aquí es donde cobran mucho valor el uso de los placeholder). Cosa que hace solo cuando el usuario no valida el formulario, y es ahí donde se desconocía, por ejemplo, que el campo ‘Contraseña’ debe tener un mínimo 8 caracteres.
+                p Sucede en un formulario web, en el que no se informa de las características que debe tener cada campo (aquí es donde cobran mucho valor el uso de los #[i placeholder]). Cosa que hace solo cuando el usuario no valida el formulario, y es ahí donde se desconocía, por ejemplo, que el campo ‘Contraseña’ debe tener un mínimo 8 caracteres.
                 .row.justify-content-center
                   .col-auto
                     figure
@@ -684,8 +684,8 @@
                         img(src='@/assets/curso/tema1/img23.png', style="width:400px" alt='')
                       figcaption Nota. Tomada de Nielsen Norman Group (2020).
             .col-lg-6(data-aos="fade-left")
-              p En este punto no traemos una mala práctica, pero sí indicamos, que cualquier sitio web o aplicación software que no presente ninguna sección de ayuda, documentación de la compañía o incluso de contacto, posiblemente va a generar un desamparo e incertidumbre al usuario.
-              p Finalmente, puedes buscar consultar en el material complementario la plantilla “Evaluación Heurística” para que puedas realizar sin ningún problema una evaluación de este tipo a un sistema software.
+              p En este punto no traemos una mala práctica, pero sí indicamos, que cualquier sitio web o aplicación #[i software] que no presente ninguna sección de ayuda, documentación de la compañía o incluso de contacto, posiblemente va a generar un desamparo e incertidumbre al usuario.
+              p Finalmente, puedes buscar consultar en el material complementario la plantilla “Evaluación Heurística” para que puedas realizar sin ningún problema una evaluación de este tipo a un sistema #[i software].
               figure.d-flex.justify-content-end 
                 img(src='@/assets/curso/tema1/img24.png', style="width:400px" alt='')
     .row.mb-4
@@ -697,7 +697,7 @@
                 img(src='@/assets/curso/tema1/img5.svg', style="width:50px" alt='').m-auto
             .col
               h3 Recorrido cognitivo
-    p(data-aos="fade-right") También conocido como #[b #[i Cognitive Walkthrough]], es un método de inspección de usabilidad enfocado en evaluar la facilidad de aprendizaje de la interfaz gráfica de una aplicación, principalmente a través de la exploración. Este método se basa en la observación de varios usuarios que buscan aprender a utilizar el software explorando sus posibilidades.
+    p(data-aos="fade-right") También conocido como #[b #[i Cognitive Walkthrough]], es un método de inspección de usabilidad enfocado en evaluar la facilidad de aprendizaje de la interfaz gráfica de una aplicación, principalmente a través de la exploración. Este método se basa en la observación de varios usuarios que buscan aprender a utilizar el #[i software] explorando sus posibilidades.
     p.mb-5(data-aos="fade-right") Los pasos para la aplicación de este método son:
     .row.bg-c21.mb-5
       .col-12
@@ -761,7 +761,7 @@
                           ul.lista-ul
                             li.d-flex
                               i.fas.fa-circle(style="color:#1682FB !important")
-                              | El documento debe incluir un anexo que es conocido como Usability Problem Report Sheet, en el material complementario lo podrás encontrar como plantilla reporte de usabilidad. En esta plantilla se detallan los aspectos negativos de la evaluación relacionándolos con un grado de severidad logrando distinguir aquellos errores más dañinos de los que no lo son tanto.
+                              | El documento debe incluir un anexo que es conocido como Usability Problem Report Sheet, en el material complementario lo podrás encontrar como plantilla reporte de usabilidad. En esta plantilla se detallan los aspectos negativos de la evaluación, relacionándolos con un grado de severidad, logrando distinguir aquellos errores más dañinos de los que no lo son tanto.
                   .col-lg-4
                     figure
                       img(src='@/assets/curso/tema1/img27.png', style="width:350px" alt='').m-auto
@@ -796,8 +796,8 @@
                     figure
                       img(src='@/assets/curso/tema1/img31.svg', style="width:70px" alt='').m-auto
                   .col 
-                    p.mb-0 Los productos de software diseñados para un contexto social determinado deberían disponer de elementos comunes, como las mismas opciones en el menú de la aplicación, un menú de “Ayuda”, etc. (Hom, 1996).
-    p(data-aos="fade-right") Por ejemplo, los productos de software diseñados para un contexto social determinado deberían disponer de elementos comunes, como las mismas opciones en el menú de la aplicación, un menú de “Ayuda”, etc. (Hom, 1996).
+                    p.mb-0 Los productos de #[i software] diseñados para un contexto social determinado deberían disponer de elementos comunes, como las mismas opciones en el menú de la aplicación, un menú de “Ayuda”, etc. (Hom, 1996).
+    p(data-aos="fade-right") Por ejemplo, los productos de #[i software] diseñados para un contexto social determinado deberían disponer de elementos comunes, como las mismas opciones en el menú de la aplicación, un menú de “Ayuda”, etc. (Hom, 1996).
     p.mb-5(data-aos="fade-right") En la mayoría de los casos la inspección debe llevarse a cabo por un experto en el estándar. En un determinado entorno, se podría exigir que la inspección la llevará a cabo alguien representativo de la compañía productora. A continuación, se presenta cuándo aplicar la técnica de inspección de estándares para optimizar la usabilidad y eficiencia en el desarrollo de productos:
     .row
       .col-12.bg-c25(data-aos="fade-down")
@@ -822,7 +822,7 @@
                 .row 
                   .col-12.bg-c26
                     .p-4
-                      p.mb-0 #[b A partir de prototipos:] inicia con prototipos de baja fidelidad. Sin embargo, es más efectivo cuando se aplica a prototipos software avanzados o, incluso mejor, a una versión inicial del sistema final.
+                      p.mb-0 #[b A partir de prototipos:] inicia con prototipos de baja fidelidad. Sin embargo, es más efectivo cuando se aplica a prototipos #[i software] avanzados o, incluso mejor, a una versión inicial del sistema final.
             .col-md-8.col-xl.m-2
               .p-4
                 figure.mb-4
@@ -843,7 +843,7 @@
     #t_1_2 
     .titulo-segundo.color-acento-contenido
       h2 1.2 Métodos de indagación
-    p.mb-5(data-aos="fade-right") El proceso de indagación facilita el conocimiento de un tema mediante el uso de conjeturas y señales. Este tipo de métodos de evaluación se basa en una premisa fundamental: interactuar con los usuarios y observarlos cuidadosamente mientras utilizan el sistema en su entorno real. De esta manera, se consiguen respuestas a las preguntas formuladas, ya sea verbalmente o por escrito.
+    p.mb-5(data-aos="fade-right") El proceso de indagación facilita el conocimiento de un tema mediante el uso de conjeturas y señales. Este tipo de métodos de evaluación se basa en una premisa fundamental: #[b interactuar con los usuarios y observarlos cuidadosamente mientras utilizan el sistema en su entorno real]. De esta manera, se consiguen respuestas a las preguntas formuladas, ya sea verbalmente o por escrito.
     .row.mb-4
       .col-auto.bg-c6(data-aos="fade-down")
         .px-3.pb-0
@@ -856,7 +856,7 @@
     .row.mb-4
       .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
         p El término cuestionario se presenta como una lista de cuestiones o preguntas planteadas sobre un tema en específico con la finalidad de que alguien las responda.
-        p En el contexto de la evaluación de usabilidad de sistemas interactivos software se hace referencia a cuestionarios como listas de preguntas que el evaluador distribuye entre usuarios y/o implicados para que estos devuelvan las respuestas y, de este modo, obtener conclusiones.
+        p En el contexto de la evaluación de usabilidad de sistemas interactivos #[i software] se hace referencia a cuestionarios como listas de preguntas que el evaluador distribuye entre usuarios y/o implicados para que estos devuelvan las respuestas y, de este modo, obtener conclusiones.
         .row
           .col-12.bg-c4
             .p-4
@@ -875,7 +875,7 @@
                   .col-lg-5.order-2.order-lg-1
                     p.txt-c2 #[b Pregunta de carácter general]
                     p.text-white Preguntas que aportan la caracterización del usuario como el perfil de usuario y su rol dentro de la población en estudio. 
-                    p.text-white.mb-0 Por ejemplo puede incluir aspectos como edad, sexo, ocupación, lugar de residencia, aficiones, estudios, aficiones, etc.
+                    p.text-white.mb-0 Por ejemplo, puede incluir aspectos como edad, sexo, ocupación, lugar de residencia, aficiones, estudios, aficiones, etc.
                   .col-lg-5.mb-4.mb-lg-0.order-1.order-lg-2
                     figure
                       img(src='@/assets/curso/tema1/img31.png',style="width:450px", alt='').m-auto
@@ -911,11 +911,8 @@
       .col-auto.bg-c6(data-aos="fade-down")
         .px-3.pb-0
           .row.align-items-end
-            .col-auto.pe-0
-              figure.fig-p1
-                img(src='@/assets/curso/tema1/img5.svg', style="width:50px" alt='').m-auto
             .col
-              h3 Partes de un cuestionario
+              h3.mt-3 Partes de un cuestionario
     p(data-aos="fade-right") La actividad de la realización de cuestionarios está relacionada a la consecución de ciertas tareas que el evaluador considera conveniente realizar (actividad combinada de varios métodos de evaluación) con el objeto de medir aspectos interactivos del sistema. 
     p.mb-5(data-aos="fade-right") En estos casos se sugiere dividir el cuestionario en tres partes:
     .row.justify-content-center.mb-5
@@ -952,7 +949,7 @@
                 img(src='@/assets/curso/tema1/img5.svg', style="width:50px" alt='').m-auto
             .col
               h3 Grabación del uso
-    p(data-aos="fade-right") Esta técnica, también conocida como análisis de logs o simplemente #[i logging], se fundamenta en "grabar" o "recoger" todas las actividades realizadas por el usuario durante su interacción con el sistema de #[i software] para su análisis posterior. Por lo tanto, es necesaria una aplicación secundaria que realice automáticamente esta tarea de capturar absolutamente todo lo que el usuario hace. Cabe destacar que esta aplicación es transparente para el usuario.
+    p(data-aos="fade-right") Esta técnica, también conocida como análisis de #[i logs] o simplemente #[i logging], se fundamenta en "grabar" o "recoger" todas las actividades realizadas por el usuario durante su interacción con el sistema de #[i software] para su análisis posterior. Por lo tanto, es necesaria una aplicación secundaria que realice automáticamente esta tarea de capturar absolutamente todo lo que el usuario hace. Cabe destacar que esta aplicación es transparente para el usuario.
     .row.align-items-center.mb-4
       .col-lg-4.mb-4.mb-lg-0(data-aos="fade-right")
         figure
@@ -962,7 +959,7 @@
         .row
           .col-12.bg-c4
             .p-4
-              p.mb-0 El log o registro contendrá estadísticas sobre la frecuencia con la que cada usuario ha utilizado cada característica del programa y la frecuencia con la que han ocurrido diversos eventos de interés, como mensajes de error. Así, se generará información valiosa para comprender aspectos de la aplicación que podrían haber pasado desapercibidos para el equipo de desarrollo.
+              p.mb-0 El #[i log] o registro contendrá estadísticas sobre la frecuencia con la que cada usuario ha utilizado cada característica del programa y la frecuencia con la que han ocurrido diversos eventos de interés, como mensajes de error. Así, se generará información valiosa para comprender aspectos de la aplicación que podrían haber pasado desapercibidos para el equipo de desarrollo.
     .row.justify-content-center.mb-5
       .col-lg-10.bg-c22(data-aos="fade-up")
         .p-4
@@ -977,21 +974,15 @@
       .col-auto.bg-c6(data-aos="fade-down")
         .px-3.pb-0
           .row.align-items-end
-            .col-auto.pe-0
-              figure.fig-p1
-                img(src='@/assets/curso/tema1/img5.svg', style="width:50px" alt='').m-auto
             .col
-              h3 Procedimiento
+              h3.mt-3 Procedimiento
     p.mb-5(data-aos="fade-right") El registro se realiza generalmente instalando el #[i software] que va a capturar todas las acciones del usuario. Es importante la configuración de este tipo de #[i software] para que se centre en la aplicación que se está probando.  Este último método suele ser el preferido, ya que hace más fácil registrar acontecimientos de interés.
     .row.mb-4
       .col-auto.bg-c6(data-aos="fade-down")
         .px-3.pb-0
           .row.align-items-end
-            .col-auto.pe-0
-              figure.fig-p1
-                img(src='@/assets/curso/tema1/img5.svg', style="width:50px" alt='').m-auto
             .col
-              h3 Características
+              h3.mt-3 Características
     p.mb-5(data-aos="fade-right") Las principales características que definen este método son:
     .row
       .col-12.bg-c29(data-aos="fade-down")
@@ -1013,7 +1004,7 @@
     #t_1_3
     .titulo-segundo.color-acento-contenido
       h2 1.3 Métodos de tipo #[i test]
-    p.mb-5(data-aos="fade-right") Los métodos de usabilidad tipo test implican que los usuarios realicen tareas utilizando el sistema o el prototipo (ya sea un wireframe o mockup), mientras los evaluadores analizan los resultados para determinar cómo la interfaz de usuario de la aplicación apoya a los usuarios en la realización de sus tareas.
+    p.mb-5(data-aos="fade-right") Los métodos de usabilidad tipo test implican que los usuarios realicen tareas utilizando el sistema o el prototipo (ya sea un #[i wireframe] o #[i mockup]), mientras los evaluadores analizan los resultados para determinar cómo la interfaz de usuario de la aplicación apoya a los usuarios en la realización de sus tareas.
     .row.mb-4
       .col-auto.bg-c6(data-aos="fade-down")
         .px-3.pb-0
@@ -1037,11 +1028,8 @@
       .col-auto.bg-c6(data-aos="fade-down")
         .px-3.pb-0
           .row.align-items-end
-            .col-auto.pe-0
-              figure.fig-p1
-                img(src='@/assets/curso/tema1/img5.svg', style="width:50px" alt='').m-auto
             .col
-              h3 Características
+              h3.mt-3 Características
     p.mb-4(data-aos="fade-right") Las principales características que definen este método son:
     .row.justify-content-center.mb-4
       .col-lg-10
@@ -1053,7 +1041,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img41.svg', style="width:120px" alt='').m-auto
                 .col
-                  p.mb-0 El objetido de toda técnica es procurar la mejora de la usabilidad del producto; no debe confundirse con un test de funcionalidad, pues sus intenciones u finalidades son diferentes porque se centra en garantizar que el producto funcione de acuerdo con las especificaciones.
+                  p.mb-0 El objetido de toda técnica es procurar la mejora de la usabilidad del producto; no debe confundirse con un #[i test] de funcionalidad, pues sus intenciones u finalidades son diferentes porque se centra en garantizar que el producto funcione de acuerdo con las especificaciones.
         .row.mb-3
           .col-12.bg-c31(data-aos="fade-down")
             .p-3
@@ -1062,7 +1050,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img42.svg', style="width:120px" alt='').m-auto
                 .col
-                  p.mb-0 Los participantes (presenciales) en el test deben analizar cómo utiliza el producto y el tiempo que demoran realizando tareas.
+                  p.mb-0 Los participantes (presenciales) en el #[i test] deben analizar cómo utiliza el producto y el tiempo que demoran realizando tareas.
         .row.mb-3
           .col-12.bg-c30(data-aos="fade-left")
             .p-3
@@ -1115,7 +1103,7 @@
           .row 
             .col-auto
               p.txt-c3 Medidas subjetivas
-          p.text-white.mb-0 Son las percepciones de los usuarios, juicios y comentarios. Pueden ser de tipo cualitativo o cuantitativo
+          p.text-white.mb-0 Son las percepciones de los usuarios, juicios y comentarios. Pueden ser de tipo cualitativo o cuantitativo.
     .row.mb-4
       .col-auto.bg-c6(data-aos="fade-down")
         .px-3.pb-0
@@ -1206,7 +1194,7 @@
         figure
           img(src='@/assets/curso/tema1/img40.png', style="width:390px" alt='').m-auto
       .col-lg-8(data-aos="fade-left")
-        p.mb-0 Durante la prueba, el usuario puede preguntar al evaluador/facilitador del test cualquier cuestión relacionada con el sistema y a su vez este deberá responder. En ese sentido el método se enfoca en el usuario inexperto y/o con poca afinidad tecnológica y el propósito de este, es descubrir las necesidades de información de los usuarios de tal forma que se genere un mejor entrenamiento y documentación al mismo tiempo que un posible rediseño de la interfaz.
+        p.mb-0 Durante la prueba, el usuario puede preguntar al evaluador/facilitador del test cualquier cuestión relacionada con el sistema y a su vez este deberá responder. En ese sentido, el método se enfoca en el usuario inexperto y/o con poca afinidad tecnológica y el propósito de este, es descubrir las necesidades de información de los usuarios de tal forma que se genere un mejor entrenamiento y documentación al mismo tiempo que un posible rediseño de la interfaz.
     .row.mb-4
       .col-auto.bg-c6(data-aos="fade-down")
         .px-3.pb-0
@@ -1218,7 +1206,7 @@
               h3 #[i Card Sorting]
     .row.mb-5
       .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
-        p Parte de hacer que un sitio sea fácil de usar es organizar la información para que las personas encuentren lo que buscan. En ese sentido, Card Sorting o clasificación de tarjetas es un método de investigación asociado a la disciplina de la Experiencia de Usuario (UX), en la que los participantes del estudio agrupan etiquetas individuales escritas en tarjetas de notas de acuerdo con los criterios que tienen sentido para ellos.
+        p Parte de hacer que un sitio sea fácil de usar es organizar la información para que las personas encuentren lo que buscan. En ese sentido, #[i Card Sorting] o clasificación de tarjetas es un método de investigación asociado a la disciplina de la Experiencia de Usuario (UX), en la que los participantes del estudio agrupan etiquetas individuales escritas en tarjetas de notas de acuerdo con los criterios que tienen sentido para ellos.
         .row
           .col-12.bg-c4
             .p-4
