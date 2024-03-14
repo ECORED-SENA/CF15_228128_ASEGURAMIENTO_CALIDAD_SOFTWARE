@@ -1147,6 +1147,7 @@
       .py-4.py-md-5(titulo="Perspectiva de diseño" :icono="require('@/assets/curso/tema1/img47.svg')")
         .row.align-items-center.justify-content-center
           .col-lg-6.order-2.order-lg-1
+            p #[b Perspectiva de diseño]
             p Permite descubrir lo que los usuarios realmente piensan sobre el diseño. En particular, escuchar sus conceptos erróneos que, generalmente, se convierten en recomendaciones de rediseño.
           .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2
             figure
@@ -1154,6 +1155,7 @@
       .py-4.py-md-5(titulo="Adaptación de interfaz" :icono="require('@/assets/curso/tema1/img48.svg')")
         .row.align-items-center.justify-content-center
           .col-lg-6.order-2.order-lg-1
+            p #[b Adaptación de interfaz]
             p Cuando los usuarios malinterpretan elementos de diseño, se deberá hacer el cambio. Aún mejor, generalmente se aprenderá por qué los usuarios adivinan mal sobre algunas partes de la interfaz de usuario y por qué encuentran otras fáciles de usar.
           .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2
             figure
@@ -1161,6 +1163,7 @@
       .py-4.py-md-5(titulo="Barato" :icono="require('@/assets/curso/tema1/img49.svg')")
         .row.align-items-center.justify-content-center
           .col-lg-6.order-2.order-lg-1
+            p #[b Barato]
             p No se necesita equipo especial; simplemente es sentarse junto a un usuario y tomar notas mientras habla. Se tarda aproximadamente un día en recopilar datos de un puñado de usuarios, que es todo lo que se necesita para obtener los conocimientos más importantes.
           .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2
             figure
@@ -1168,6 +1171,7 @@
       .py-4.py-md-5(titulo="Flexible" :icono="require('@/assets/curso/tema1/img50.svg')")
         .row.align-items-center.justify-content-center
           .col-lg-6.order-2.order-lg-1
+            p #[b Flexible]
             p Puede utilizar el método en cualquier etapa del ciclo de vida del desarrollo, desde los primeros prototipos en papel  hasta los sistemas en ejecución completamente implementados.
           .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2
             figure
@@ -1175,6 +1179,7 @@
       .py-4.py-md-5(titulo="Convincente" :icono="require('@/assets/curso/tema1/img51.svg')")
         .row.align-items-center.justify-content-center
           .col-lg-6.order-2.order-lg-1
+            p #[b Convincente]
             p Lograr que el resto de su equipo (y la gerencia) se siente en algunas sesiones de pensamiento en voz alta, no les toma mucho tiempo y es la mejor manera de motivarlos para que presten atención a la usabilidad.
           .col-lg-4.mb-4.mb-lg-0.order-1.order-lg-2
             figure
