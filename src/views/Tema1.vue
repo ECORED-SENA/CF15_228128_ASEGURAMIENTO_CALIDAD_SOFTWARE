@@ -1221,7 +1221,7 @@
           img(src='@/assets/curso/tema1/img41.png', style="width:390px" alt='').m-auto
     figure.mb-4(data-aos="fade-down")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/LIltBJU60Vw?si=uKLWmNmUFY3v4m-f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     p.mb-4(data-aos="fade-right") Generalmente, el proceso funciona de la siguiente manera:
     .row.bg-c21(data-aos="fade-left")
       .col-12
