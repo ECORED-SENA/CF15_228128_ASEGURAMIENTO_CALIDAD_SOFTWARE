@@ -125,7 +125,7 @@
     .row.bg-c7
       .col-12
         .px-5.pt-5
-          p.mb-4(data-aos="fade-right") #[b.txt-c1 Paso 2. Coincidencia entre el sistema y el mundo real.] El diseño debe hablar el idioma de los usuarios. Utilice palabras, frases y conceptos familiares para el usuario, en lugar de jerga interna. Siga las convenciones del mundo real, haciendo que la información aparezca en un orden lógico y natural (Nielsen, 2020).
+          p.mb-4(data-aos="fade-right") #[b.txt-c1 Paso 2. Coincidencia entre el sistema y el mundo real.] El diseño debe hablar el idioma de los usuarios. Utilice palabras, frases y conceptos familiares para el usuario, en lugar de jerga interna. Siga las convenciones del mundo real, haciendo que la información aparezca en un orden lógico y natural. (Nielsen, 2020).
           .row.justify-content-center.mb-4
             .col-10.bg-c8(data-aos="fade-down")
               .p-4
@@ -381,7 +381,7 @@
                   .col
                     p #[b Recomendación]
                     p.mb-0 En la literatura se menciona que los seres humanos tienen una memoria limitada a corto plazo. De esta forma, para reducir la cantidad de esfuerzo cognitivo requerido por parte de los usuarios se desarrollan interfaces que promueven el reconocimiento.
-          p.mb-4(data-aos="fade-right") Algunos consejos son:
+          p.mb-4(data-aos="fade-right") Algunas prácticas son:
           .row.mb-4
             .col-lg.m-2(data-aos="fade-right")
               .row.h-100
@@ -400,7 +400,7 @@
                       img(src='@/assets/curso/tema1/img24.svg', style="width:70px" alt='').m-auto
                 .col.bg-c16.d-flex.align-items-center
                   .p-4
-                    p.mb-0 Ofrecer ayuda en contexto, en lugar de dar a los usuarioss un tutorial largo para memorizar.
+                    p.mb-0 Ofrecer ayuda en contexto, en lugar de dar a los usuarios un tutorial largo para memorizar.
             .col-lg.m-2(data-aos="fade-left")
               .row.h-100
                 .col-auto.bg-c15.d-flex.align-items-center
@@ -410,7 +410,7 @@
                 .col.bg-c16.d-flex.align-items-center
                   .p-4
                     p.mb-0 Reducir la información que los usuarios deben recordar.
-          p.mb-4(data-aos="fade-right") Algunos consejos son:
+          p.mb-4(data-aos="fade-right") Algunas prácticas son:
           .row.justify-content-center.mb-5
             .col-10.col-md-8.col-lg.bg-c10.m-2(data-aos="fade-right")
               .p-4
@@ -586,7 +586,7 @@
                 p.mb-0 Utilizar elementos visuales de mensajes de error tradicionales, como texto rojo en negrita.
             .col-md-8.col-lg.bg-c17.m-2(data-aos="fade-up")
               .p-4
-                p.mb-0 Ofrecer a los usuarios una solución, como un atajo que pueda resolver el error de imediato.
+                p.mb-0 Ofrecer a los usuarios una solución, como un atajo que pueda resolver el error de inmediato.
             .col-md-8.col-lg.bg-c17.m-2(data-aos="fade-left")
               .p-4
                 p.mb-0 Indicar a los usuarios lo que salió mal en un lenguaje que entenderán; evitar la jerga técnica.
@@ -634,7 +634,7 @@
                   .col
                     p #[b Recomendación]
                     p.mb-0 Los mensajes, notificaciones o alertas de error también deben presentarse con tratamientos visuales que acompañe y de soporte a los usuarios a notarlos y reconocerlos.
-          p.mb-4(data-aos="fade-right") A continuación, se comparten algunas consejos:
+          p.mb-4(data-aos="fade-right") A continuación, se comparten algunos consejos:
           .row.mb-4
             .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
               .row.justify-content-end 
@@ -999,7 +999,7 @@
                 p.text-center.mb-0 Puede realizarse remotamente, lo que permite evaluar un gran número de datos.
             .col-md-8.col-lg.bg-c28.m-2
               .p-4
-                p.text-center.mb-0 Los datos suelen tener un formato estándar, lo que facilia a la comparación de datos según diferentes criterios.
+                p.text-center.mb-0 Los datos suelen tener un formato estándar, lo que facilita a la comparación de datos según diferentes criterios.
     Separador 
     #t_1_3
     .titulo-segundo.color-acento-contenido
@@ -1041,7 +1041,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img41.svg', style="width:120px" alt='').m-auto
                 .col
-                  p.mb-0 El objetido de toda técnica es procurar la mejora de la usabilidad del producto; no debe confundirse con un #[i test] de funcionalidad, pues sus intenciones u finalidades son diferentes porque se centra en garantizar que el producto funcione de acuerdo con las especificaciones.
+                  p.mb-0 El objetivo de toda técnica es procurar la mejora de la usabilidad del producto; no debe confundirse con un #[i test] de funcionalidad, pues sus intenciones u finalidades son diferentes porque se centra en garantizar que el producto funcione de acuerdo con las especificaciones.
         .row.mb-3
           .col-12.bg-c31(data-aos="fade-down")
             .p-3
