@@ -125,7 +125,7 @@ export default {
     {
       tema: 'Técnicas y métodos de evaluación de usabilidad',
       referencia:
-        'SIlva, F. (2015). <i>Cómo mejorar la usabilidad de tu diseño web</i>. Blog IDA Chile | Estrategia para el éxito de tu negocio.',
+        'SIlva, F. (2014). Curvas de aprendizaje en diseño web, si tienes que enseñar a usarlo, no sirve. Blog IDA Chile | Usabilidad web.',
       tipo: 'Blog',
       link: 'https://blog.ida.cl/diseno/como-mejorar-usabilidad-diseno-web/',
     },
@@ -186,7 +186,7 @@ export default {
     {
       termino: '<i>Card Sorting</i>',
       significado:
-        'método utilizado para ayudar a diseñar o evaluar la arquitectura de información de un sitio. En una sesión de con este método, los participantes organizan los temas en categorías que tienen sentido para ellos y también pueden ayudarlo a etiquetar estos grupos.',
+        'método utilizado para ayudar a diseñar o evaluar la arquitectura de información de un sitio. En una sesión con este método, los participantes organizan los temas en categorías que tienen sentido para ellos y también pueden ayudarlo a etiquetar estos grupos.',
     },
     {
       termino: '<i>Mapping</i>',
@@ -200,7 +200,7 @@ export default {
     {
       termino: '<i>Logging</i>',
       significado:
-        'proceso de capturar todo lo que usuario hace con un sistema interactivo, pueden ser clic, teclado y gestos.',
+        'proceso de capturar todo lo que el usuario hace con un sistema interactivo, pueden ser clic, teclado y gestos.',
     },
     {
       termino: 'Página web',
@@ -262,7 +262,7 @@ export default {
     },
     {
       referencia:
-        'Nielsen, J. (1994). <i>Usability Inspection Method Summary</i>. Nielsen Norman Group. ',
+        'Nielsen, J. (1994). <i>Summary of Usability Inspection Methods</i>. Nielsen Norman Group. ',
       link:
         'https://www.nngroup.com/articles/summary-of-usability-inspection-methods/',
     },
@@ -315,29 +315,14 @@ export default {
       autores: [
         {
           nombre: 'Santiago Muñoz de la Rosa',
-          cargo: 'Experto temático',
+          cargo: 'Experto Temático',
           centro:
-            'Regional Cauca - Centro de Teleinformática y Producción Industrial',
+            'Centro de Teleinformática y Producción Industrial - Regional Cauca',
         },
         {
-          nombre: 'Zvi Daniel Grosman',
-          cargo: 'Diseñador instruccional',
-          centro: 'Regional Tolima - Centro Agropecuario “La Granja”',
-        },
-        {
-          nombre: 'Carolina Coca Salazar',
-          cargo: 'Revisora metodológica y pedagógica',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
-        },
-        {
-          nombre: 'José Gabriel Ortiz Abella',
-          cargo: 'Corrector de estilo',
-          centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
-        },
-        {
-          nombre: 'Paola Alexandra Moya Peralta',
-          cargo: 'Evaluadora instruccional',
-          centro: 'Centro de Servicios de Salud',
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora Instruccional',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],
     },
@@ -345,7 +330,7 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Daniel Polanco',
+          nombre: 'Juan Daniel Polanco Muñoz',
           cargo: 'Diseñador de Contenidos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
@@ -360,22 +345,12 @@ export default {
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Intérprete lenguaje de señas',
+          nombre: 'Daniela Muñoz Bedoya',
+          cargo: 'Animador y Productor Multimedia',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
-          nombre: 'Nombre',
-          cargo: 'Storyboard e ilustración',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
-          cargo: 'Animador y productor multimedia',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Nombre',
+          nombre: 'Wilson Andrés Arenales Cáceres',
           cargo: 'Locución',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
@@ -386,22 +361,22 @@ export default {
       autores: [
         {
           nombre: 'Luis Gabriel Urueta Alvarez',
-          cargo: 'Validador de recursos educativos digitales',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador de recursos educativos digitales',
-          centro: 'Centro de Servicios de Salud - Regional Antioquia',
-        },
-        {
-          nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Validador de Recursos Educativos Digitales',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
         {
           nombre: 'Margarita Marcela Medrano Gómez',
-          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro: 'Centro de Servicios de Salud - Regional Antioquia',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
           centro: 'Centro de Servicios de Salud - Regional Antioquia',
         },
       ],

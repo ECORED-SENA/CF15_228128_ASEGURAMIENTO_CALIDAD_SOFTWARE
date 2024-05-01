@@ -32,7 +32,7 @@
             .col.bg-c24
               .ps-5.py-4
                 p Para que las personas con discapacidad puedan vivir de forma independiente y participar plenamente en todos los aspectos de la vida, los Estados Parte adoptarán las medidas adecuadas para garantizar a las personas con discapacidad el acceso, en igualdad de condiciones con las demás, al entorno físico, al transporte y a la información. Y comunicaciones, incluidos los sistemas y tecnologías de la información y las comunicaciones, ya otras instalaciones y servicios abiertos o prestados al público, tanto en zonas urbanas como rurales. 
-                p Estas medidas, que incluirán la identificación y eliminación de obstáculos y barreras a la accesibilidad, se aplicarán, entre otros:
+                p Estas medidas, que incluirán la identificación y eliminación de obstáculos y barreras a la accesibilidad, se aplicarán, entre otros, a:
                 ol.lista-ol--cuadro
                   li.d-flex
                     .lista-ol--cuadro__vineta

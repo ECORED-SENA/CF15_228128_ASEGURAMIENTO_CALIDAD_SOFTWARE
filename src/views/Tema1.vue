@@ -180,7 +180,7 @@
                       img(src='@/assets/curso/tema1/img12.svg', style="width:30px" alt='')
                   .col
                     p.mb-0 #[b Ejemplo: buena práctica]
-                p Cuando los controles de la estufa coinciden con la disposición de los elementos calefactores, los usuarios pueden comprender rápidamente qué los controles están asociados con la distribución de cada calefactor.
+                p Cuando los controles de la estufa coinciden con la disposición de los elementos calefactores, los usuarios pueden comprender rápidamente que los controles están asociados con la distribución de cada calefactor.
                 .row.justify-content-center
                   .col-auto
                     figure
@@ -194,7 +194,7 @@
                       img(src='@/assets/curso/tema1/img13.svg', style="width:30px" alt='')
                   .col
                     p.mb-0 #[b Ejemplo: mala práctica]
-                p En una de las páginas más visitadas de comprar en línea, se refleja un error que puede causar confusión, y es en este caso, el botón #[b “Cómpralo ya!”] porque resalta más al ser más grande que el botón de “Añadir a la cesta”, por lo que fácilmente puede conducir a error por parte del usuario.
+                p En una de las páginas más visitadas de comprar en línea, se refleja un error que puede causar confusión, y es en este caso, el botón #[b “Cómpralo ya!”] porque resalta más, al ser más grande que el botón de “Añadir a la cesta”, por lo que fácilmente puede conducir a error por parte del usuario.
                 .row.justify-content-center
                   .col-auto
                     figure
@@ -506,7 +506,7 @@
     .row.bg-c7
       .col-12
         .px-5.pt-5
-          p.mb-4(data-aos="fade-right") #[b.txt-c1 Paso 8. Diseño estético y minimalista.] Los accesos directos, ocultos para los usuarios novatos, pueden acelerar la interacción para el usuario experto, de modo que el diseño pueda satisfacer tanto a los usuarios sin experiencia como a los experimentados. Permitir a los usuarios personalizar las acciones frecuentes (Nielsen, 2020).
+          p.mb-4(data-aos="fade-right") #[b.txt-c1 Paso 8. Diseño estético y minimalista.] Las interfaces no deben contener información que sea irrelevante o que rara vez se necesite. Cada unidad adicional de información en una interfaz compite con las unidades de información relevantes y disminuye su visibilidad relativa (Nielsen, 2020).
           .row.justify-content-center.mb-4
             .col-10.bg-c8(data-aos="fade-down")
               .p-4
@@ -536,6 +536,9 @@
             .col-lg-3.mb-4.mb-lg-0.order-1.order-lg-2(data-aos="fade-left")
               figure
                 img(src='@/assets/curso/tema1/img17.png', style="width:230px" alt='').m-auto
+          
+          p.mt-4(data-aos="fade-up") A continuación, se comparten algunas prácticas:
+
           .row.justify-content-center.mb-5
             .col-10.col-md-8.col-lg.bg-c10.m-2(data-aos="fade-right")
               .p-4
@@ -614,7 +617,7 @@
                       img(src='@/assets/curso/tema1/img13.svg', style="width:30px" alt='')
                   .col
                     p.mb-0 #[b Ejemplo: mala práctica]
-                p Como ejemplo se presenta un sitio web dónde en el proceso de compra de un tiquete de transporte de trenes en Europa, aparecen múltiples mensajes de error con una nomenclatura que el usuario difícilmente entenderá.
+                p Como ejemplo se presenta un sitio web donde en el proceso de compra de un tiquete de transporte de trenes en Europa, aparecen múltiples mensajes de error con una nomenclatura que el usuario difícilmente entenderá.
                 .row.justify-content-center
                   .col-auto
                     figure
@@ -797,7 +800,6 @@
                       img(src='@/assets/curso/tema1/img31.svg', style="width:70px" alt='').m-auto
                   .col 
                     p.mb-0 Los productos de #[i software] diseñados para un contexto social determinado deberían disponer de elementos comunes, como las mismas opciones en el menú de la aplicación, un menú de “Ayuda”, etc. (Hom, 1996).
-    p(data-aos="fade-right") Por ejemplo, los productos de #[i software] diseñados para un contexto social determinado deberían disponer de elementos comunes, como las mismas opciones en el menú de la aplicación, un menú de “Ayuda”, etc. (Hom, 1996).
     p.mb-5(data-aos="fade-right") En la mayoría de los casos la inspección debe llevarse a cabo por un experto en el estándar. En un determinado entorno, se podría exigir que la inspección la llevará a cabo alguien representativo de la compañía productora. A continuación, se presenta cuándo aplicar la técnica de inspección de estándares para optimizar la usabilidad y eficiencia en el desarrollo de productos:
     .row
       .col-12.bg-c25(data-aos="fade-down")
@@ -1004,7 +1006,7 @@
     #t_1_3
     .titulo-segundo.color-acento-contenido
       h2 1.3 Métodos de tipo #[i test]
-    p.mb-5(data-aos="fade-right") Los métodos de usabilidad tipo test implican que los usuarios realicen tareas utilizando el sistema o el prototipo (ya sea un #[i wireframe] o #[i mockup]), mientras los evaluadores analizan los resultados para determinar cómo la interfaz de usuario de la aplicación apoya a los usuarios en la realización de sus tareas.
+    p.mb-5(data-aos="fade-right") Los métodos de usabilidad tipo #[em test] implican que los usuarios realicen tareas utilizando el sistema o el prototipo (ya sea un #[i wireframe] o #[i mockup]), mientras los evaluadores analizan los resultados para determinar cómo la interfaz de usuario de la aplicación apoya a los usuarios en la realización de sus tareas.
     .row.mb-4
       .col-auto.bg-c6(data-aos="fade-down")
         .px-3.pb-0
@@ -1041,7 +1043,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img41.svg', style="width:120px" alt='').m-auto
                 .col
-                  p.mb-0 El objetivo de toda técnica es procurar la mejora de la usabilidad del producto; no debe confundirse con un #[i test] de funcionalidad, pues sus intenciones u finalidades son diferentes porque se centra en garantizar que el producto funcione de acuerdo con las especificaciones.
+                  p.mb-0 El objetivo de toda técnica es procurar la mejora de la usabilidad del producto; no debe confundirse con un #[i test] de funcionalidad, pues sus intenciones o finalidades son diferentes porque se centra en garantizar que el producto funcione de acuerdo con las especificaciones.
         .row.mb-3
           .col-12.bg-c31(data-aos="fade-down")
             .p-3
@@ -1059,7 +1061,7 @@
                   figure
                     img(src='@/assets/curso/tema1/img43.svg', style="width:120px" alt='').m-auto
                 .col
-                  p.mb-0 Como recomendación es hacer esta técnica en un laboratorio de usabilidad. Para la realización del test hay que definir las tareas que los usuarios deben realizar.
+                  p.mb-0 Como recomendación es hacer esta técnica en un laboratorio de usabilidad. Para la realización del #[em test] hay que definir las tareas que los usuarios deben realizar.
     p.mb-4(data-aos="fade-right") Aspectos para tener en cuenta a la hora de escoger las tareas:
     .row.align-items-center.mb-4
       .col-lg-8.order-2.order-lg-1(data-aos="fade-right")
@@ -1199,7 +1201,7 @@
         figure
           img(src='@/assets/curso/tema1/img40.png', style="width:390px" alt='').m-auto
       .col-lg-8(data-aos="fade-left")
-        p.mb-0 Durante la prueba, el usuario puede preguntar al evaluador/facilitador del test cualquier cuestión relacionada con el sistema y a su vez este deberá responder. En ese sentido, el método se enfoca en el usuario inexperto y/o con poca afinidad tecnológica y el propósito de este, es descubrir las necesidades de información de los usuarios de tal forma que se genere un mejor entrenamiento y documentación al mismo tiempo que un posible rediseño de la interfaz.
+        p.mb-0 Durante la prueba, el usuario puede preguntar al evaluador/facilitador del #[em test] cualquier cuestión relacionada con el sistema y a su vez este deberá responder. En ese sentido, el método se enfoca en el usuario inexperto y/o con poca afinidad tecnológica y el propósito de este, es descubrir las necesidades de información de los usuarios de tal forma que se genere un mejor entrenamiento y documentación al mismo tiempo que un posible rediseño de la interfaz.
     .row.mb-4
       .col-auto.bg-c6(data-aos="fade-down")
         .px-3.pb-0
